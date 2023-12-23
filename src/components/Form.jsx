@@ -27,15 +27,16 @@ const Form = ({ setInfo, setState }) => {
       <form onSubmit={(e) => { e.preventDefault(); handleChange(); }} className="form">
         <div className="autocomplete-container">
           <Autocomplete
+          
             options={cities}
             getOptionLabel={(option) => option}
             value={selectedCity}
             onChange={(_, newValue) => setSelectedCity(newValue)}
-            renderInput={(params) => <TextField {...params} label="Şehir Giriniz" />}
+            renderInput={(params) => <TextField  sx={{backgroundColor: 'white',fontSize:'40px',fontWeight:'bold'}} {...params} label="Şehir Giriniz" />}
           />
         </div>
         <div className="btnDiv">
-          <Button type="submit" variant="contained" className="btn">
+          <Button type="submit" variant="contained" style={{ backgroundColor: 'darkblue', color: 'white' }}className="btn">
             HAVA DURUMUNU GÖSTER 
           </Button>
         </div>
