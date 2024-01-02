@@ -5,9 +5,14 @@
   background-repeat: no-repeat;
   min-height: 100vh;
   margin-top: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 .app-container{
   margin: 20px;
+
 }
 body {
   margin: 0;
@@ -39,7 +44,6 @@ body {
 
 .info-container {
   background-color: #ffffff;
-
   border-radius: 8px;
   margin-top: 20px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);

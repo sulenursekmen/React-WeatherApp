@@ -37,7 +37,7 @@ const Form = ({ setInfo, setState }) => {
         </div>
         <div className="btnDiv">
           <Button type="submit" variant="contained" style={{ backgroundColor: 'darkblue', color: 'white' }}className="btn">
-            HAVA DURUMUNU GÖSTER 
+            HAVA DURUMUNU GÖSTER
           </Button>
         </div>
       </form>
