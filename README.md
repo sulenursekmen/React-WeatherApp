@@ -1,3 +1,9 @@
+This project is a Weather Forecast application made with React JS. It aims to show users real-time weather data for cities in Turkey. Users can select a city to view its current weather conditions. The functionality and appearance of the project have been enhanced using tools like OpenWeatherMap API and Material-UI.
+
+Below, you can see an example of city selection and UI view.
+
+---
+
 Bu proje React js ile yapılmış bir Hava Durumu uygulamasıdır. 
 Kullanıcıya Türkiye'deki şehirlerin hava durumu bilgilerini anlık olarak göstermeyi amaçlamaktadır. Kullanıcı, bir şehir seçerek o şehirin güncel hava durumu verilerini öğrenebilir. OpenWeatherMap API ve Material-UI gibi araçlar kullanılarak projenin işlevselliği ve görünümü artırılmıştır. 
 
