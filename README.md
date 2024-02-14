@@ -23,7 +23,8 @@ For any questions or feedback, please reach out to sulenursekmenn@gmail.com
 
 ---
 
-React JS ile Hava Durumu Uygulaması
+# React JS ile Hava Durumu Uygulaması
+
 Bu proje, React JS ile yapılan bir Hava Durumu uygulamasıdır. Türkiye'deki şehirlerin gerçek zamanlı hava durumu verilerini göstermeyi hedeflemektedir. Kullanıcılar bir şehir seçerek o şehrin güncel hava durumu koşullarını görebilirler. Projenin işlevselliği ve görünümü OpenWeatherMap API ve Material-UI gibi araçlar kullanılarak geliştirilmiştir.
 
 ##Kullanım
