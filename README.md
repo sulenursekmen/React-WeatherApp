@@ -4,20 +4,20 @@ This project is a Weather Forecast application made with React JS. It aims to sh
 
 Below, you can see an example of city selection and UI view.
 
-##Usage
+## Usage
 
 -Navigate to http://localhost:3000 in your browser.
 -Select a city to view its current weather conditions.
 
-##Credits
+## Credits
 
 This project was made possible thanks to the following technologies and APIs:
 
-React JS
-OpenWeatherMap API
-Material-UI
+-React JS
+-OpenWeatherMap API
+-Material-UI
 
-##Contact
+## Contact
 
 For any questions or feedback, please reach out to sulenursekmenn@gmail.com
 
@@ -27,21 +27,21 @@ For any questions or feedback, please reach out to sulenursekmenn@gmail.com
 
 Bu proje, React JS ile yapılan bir Hava Durumu uygulamasıdır. Türkiye'deki şehirlerin gerçek zamanlı hava durumu verilerini göstermeyi hedeflemektedir. Kullanıcılar bir şehir seçerek o şehrin güncel hava durumu koşullarını görebilirler. Projenin işlevselliği ve görünümü OpenWeatherMap API ve Material-UI gibi araçlar kullanılarak geliştirilmiştir.
 
-##Kullanım
+## Kullanım
 
-Tarayıcınızda http://localhost:3000 adresine gidin.
-Güncel hava durumu koşullarını görmek için bir şehir seçin.
+-Tarayıcınızda http://localhost:3000 adresine gidin.
+-Güncel hava durumu koşullarını görmek için bir şehir seçin.
 
-##Krediler
+## Krediler
 
 Bu proje aşağıdaki teknoloji ve API'ler sayesinde mümkün hale gelmiştir:
 
-React JS
-OpenWeatherMap API
-Material-UI
+-React JS
+-OpenWeatherMap API
+-Material-UI
 
 
-##İletişim
+## İletişim
 
 Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen sulenursekmenn@gmail.com adresine ulaşın.
 
